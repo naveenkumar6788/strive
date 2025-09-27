@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'
+import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
 import 'my_pitches_screen.dart';
 import 'settings_screen.dart'; 
